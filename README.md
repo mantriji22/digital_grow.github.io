@@ -113,7 +113,7 @@
                     <svg class="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
                       <circle cx="12" cy="12" r="3"></circle>
-                    </svg>55K
+                    </svg>49K
                   </span>
                   <span class="text-gray-600 inline-flex items-center leading-none text-sm">
                     <svg class="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
@@ -166,7 +166,7 @@
                 </tr>
                 <tr>
                   <td class="border-t-2 border-gray-200 px-4 py-3">PLATINUM</td>
-                  <td class="border-t-2 border-gray-200 px-4 py-3">999</td>
+                  <td class="border-t-2 border-gray-200 px-4 py-3">999 </td>
                   <td class="border-t-2 border-gray-200 px-4 py-3">1 month</td>
                   <td class="border-t-2 border-gray-200 px-4 py-3 text-lg text-gray-900">INR</td>
                   <td class="border-t-2 border-gray-200 w-10 text-center">
