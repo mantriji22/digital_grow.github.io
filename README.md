@@ -36,7 +36,7 @@
             <p class="mb-8 leading-relaxed">Digital_with_grow_up</p>
             <div class="flex justify-center">
               <button class="inline-flex text-white bg-teal-500 border-0 py-2 px-6 focus:outline-none hover:bg-teal-600 rounded text-lg">100% trusted</button>
-              <button class="ml-4 inline-flex text-gray-700 bg-gray-200 border-0 py-2 px-6 focus:outline-none hover:bg-gray-300 rounded text-lg">C.E.O = SHIVAM SHARMA</button>
+              <button class="ml-4 inline-flex text-gray-700 bg-gray-200 border-0 py-2 px-6 focus:outline-none hover:bg-gray-300 rounded text-lg">C.E.O = SHIVAM</button>
             </div>
           </div>
         </div> <p class="lg:w-2/3 mx-auto leading-relaxed text-base">WELOCOME to digital family  We have three type of earning method................ <life class="">
