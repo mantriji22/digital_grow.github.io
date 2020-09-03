@@ -18,7 +18,7 @@
           <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
             <a class="mr-5 hover:text-red-900">Entrepreneur</a><b>|</b>
            
-            <a class="mr-5 hover:text-gray-900">24x7 </a><b>|</b>
+            <a class="mr-5 hover:text-gray-900">24x7 </a>
             <a class="mr-5 hover:text-gray-900"x>Help</a>
           </nav>
           <button class="inline-flex items-center bg-gray-200 border-0 py-1 px-3 focus:outline-none hover:bg-gray-300 rounded text-base mt-4 md:mt-0">Button
